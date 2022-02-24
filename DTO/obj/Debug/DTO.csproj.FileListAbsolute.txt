@@ -1,0 +1,10 @@
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\DTO\bin\Debug\DTO.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\DTO\bin\Debug\DTO.pdb
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\DTO\obj\Debug\DTO.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\DTO\obj\Debug\DTO.pdb
+C:\Users\quang\Downloads\QLHSPT\DTO\bin\Debug\DTO.dll
+C:\Users\quang\Downloads\QLHSPT\DTO\bin\Debug\DTO.pdb
+C:\Users\quang\Downloads\QLHSPT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\quang\Downloads\QLHSPT\DTO\obj\Debug\DTO.dll
+C:\Users\quang\Downloads\QLHSPT\DTO\obj\Debug\DTO.pdb

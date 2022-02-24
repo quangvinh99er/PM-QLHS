@@ -1,0 +1,14 @@
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\DAL\bin\Debug\DAL.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\DAL\bin\Debug\DAL.pdb
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\DAL\obj\Debug\DAL.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\DAL\obj\Debug\DAL.pdb
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\DAL\bin\Debug\DTO.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\DAL\bin\Debug\DTO.pdb
+C:\Users\quang\Downloads\QLHSPT\DAL\bin\Debug\DAL.dll
+C:\Users\quang\Downloads\QLHSPT\DAL\bin\Debug\DAL.pdb
+C:\Users\quang\Downloads\QLHSPT\DAL\bin\Debug\DTO.dll
+C:\Users\quang\Downloads\QLHSPT\DAL\bin\Debug\DTO.pdb
+C:\Users\quang\Downloads\QLHSPT\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\quang\Downloads\QLHSPT\DAL\obj\Debug\DAL.dll
+C:\Users\quang\Downloads\QLHSPT\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,52 @@
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\bin\Debug\QLHSPT.exe.config
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\bin\Debug\QLHSPT.exe
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\bin\Debug\QLHSPT.pdb
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.csprojResolveAssemblyReference.cache
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmLogin.resources
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.Properties.Resources.resources
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.csproj.GenerateResource.Cache
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.exe
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.pdb
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmMain.resources
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmHS.resources
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\bin\Debug\BUS.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\bin\Debug\DTO.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\bin\Debug\DAL.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\bin\Debug\BUS.pdb
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\bin\Debug\DTO.pdb
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\bin\Debug\DAL.pdb
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\bin\Debug\aa\QLHSPT.resources.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmHS.aa.resources
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\aa\QLHSPT.resources.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmchpass.resources
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmLop.resources
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmMonhoc.resources
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmGV.resources
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmDiem.resources
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmSearchThongtin.resources
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\bin\Debug\QLHSPT.exe.config
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.exe
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.pdb
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\bin\Debug\QLHSPT.exe
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\bin\Debug\QLHSPT.pdb
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\bin\Debug\aa\QLHSPT.resources.dll
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\bin\Debug\BUS.dll
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\bin\Debug\DTO.dll
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\bin\Debug\DAL.dll
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\bin\Debug\BUS.pdb
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\bin\Debug\DTO.pdb
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\bin\Debug\DAL.pdb
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.csprojResolveAssemblyReference.cache
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmchpass.resources
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmDiem.resources
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmGV.resources
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmHS.resources
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmLogin.resources
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmMain.resources
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmLop.resources
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmMonhoc.resources
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.Properties.Resources.resources
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmSearchThongtin.resources
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.frmHS.aa.resources
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\QLHSPT.csproj.GenerateResource.Cache
+C:\Users\quang\Downloads\QLHSPT\QLHSPT\obj\Debug\aa\QLHSPT.resources.dll

@@ -1,0 +1,18 @@
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\BUS\bin\Debug\BUS.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\BUS\bin\Debug\BUS.pdb
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\BUS\bin\Debug\DAL.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\BUS\bin\Debug\DTO.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\BUS\bin\Debug\DAL.pdb
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\BUS\bin\Debug\DTO.pdb
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\BUS\obj\Debug\BUS.dll
+C:\Users\quang\OneDrive\Tài liệu\Visual Studio 2015\Projects\Console\QLHSPT\BUS\obj\Debug\BUS.pdb
+C:\Users\quang\Downloads\QLHSPT\BUS\bin\Debug\BUS.dll
+C:\Users\quang\Downloads\QLHSPT\BUS\bin\Debug\BUS.pdb
+C:\Users\quang\Downloads\QLHSPT\BUS\bin\Debug\DAL.dll
+C:\Users\quang\Downloads\QLHSPT\BUS\bin\Debug\DTO.dll
+C:\Users\quang\Downloads\QLHSPT\BUS\bin\Debug\DAL.pdb
+C:\Users\quang\Downloads\QLHSPT\BUS\bin\Debug\DTO.pdb
+C:\Users\quang\Downloads\QLHSPT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\quang\Downloads\QLHSPT\BUS\obj\Debug\BUS.dll
+C:\Users\quang\Downloads\QLHSPT\BUS\obj\Debug\BUS.pdb
